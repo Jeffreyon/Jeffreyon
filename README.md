@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, my name's Jeffrey</h1>
-<h3 align="center">I am fullstack developer living in Nigeria with 3 years of experience building useful products driven by design and technology. When i'm not improving my skills, I experiement with product ideas and write articles reflecting what I learn along the way</h3>
+<h1>Hi, i'm Jeffrey</h1>
+<h4>I'm a Fullstack Developer from Nigeria with more than 3 years of experience building useful products driven by design and technology. When i'm not improving my skills, I experiement with random product ideas I think are useful and write articles reflecting what I learn along the way</h4>
 
 - 🔭 I’m currently working on [Tweaver](tweaver.netlify.app)
 
-- 🌱 I’m currently learning **ReactJS, Serverless Functions, Tailwind, NodeJS**
+- 🌱 I’m currently learning **ReactJS, Serverless Technologies, Tailwind, NodeJS**
 
 - 📝 I regularly write articles on [jeffreyon.hashnode.dev](jeffreyon.hashnode.dev)
 
