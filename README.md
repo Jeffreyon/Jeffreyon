@@ -1,7 +1,7 @@
 <h1>Hi, i'm Jeffrey</h1>
 <h4>I'm a Fullstack Developer from Nigeria with more than 3 years of experience building useful products driven by design and technology. When i'm not improving my skills, I experiement with random product ideas I think are useful and write articles reflecting what I learn along the way</h4>
 
-- 🔭 I’m currently working on [Tweaver](tweaver.netlify.app)
+- 🔭 I’m currently working on [Tweaver](https://github.com/Jeffreyon/tweaver)
 
 - 🌱 I’m currently learning **ReactJS, Serverless Technologies, Tailwind, NodeJS**
 
