@@ -1,15 +1,15 @@
 <h1>Hi, i'm Jeffrey</h1>
 <h4>I'm a Fullstack Developer from Nigeria with more than 3 years of experience building useful products driven by design and technology. When i'm not improving my skills, I experiement with random product ideas I think are useful and write articles reflecting what I learn along the way</h4>
 
-- 🔭 I’m currently working on [Tweaver](https://github.com/Jeffreyon/tweaver)
+- 🔭 I’m currently working on Marketing Websites
 
-- 🌱 I’m currently learning **ReactJS, Serverless Technologies, Tailwind, NodeJS**
+- 🌱 I’m currently learning **NextJS and Typescript**
 
 - 📝 I regularly write articles on [jeffreyon.hashnode.dev](jeffreyon.hashnode.dev)
 
 - 📫 How to reach me **https://twitter.com/jeffreyon_**
 
-- ⚡ Fun fact **I make origami art**
+- ⚡ Fun fact **I'm not doing this for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
