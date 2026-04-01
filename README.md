@@ -54,7 +54,7 @@ I approach problems by understanding:
 
 ## Selected Work
 
-- Delivery Flow Engine (with repo link)
+- Delivery Flow Engine ([View repo](https://github.com/Jeffreyon/delivery-flow-engine))
   - Built order → dispatch → delivery system
   - Event-based status tracking
   - Admin dashboard for operations
