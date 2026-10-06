@@ -16,7 +16,7 @@ Scope, prices and how it works: **[bkydstudios.com/hire](https://bkydstudios.com
 
 ## Things I've built
 
-- **[Trackam](https://github.com/Jeffreyon/trackam)**: an open source operator platform for logistics companies, built solo in 8 weeks.
+- **[Trackam](https://ontrackam.com)**: an open source operator platform for logistics companies on a shared switch, built solo in 8 weeks.
 - **[device-sense](https://github.com/Jeffreyon/device-sense)**: reads a machine's real hardware from the chip, not the label, so a faked spec sheet gets caught.
 - **[delivery-flow-engine](https://github.com/Jeffreyon/delivery-flow-engine)**: an event-driven backend for delivery operations, in Node.js.
 
