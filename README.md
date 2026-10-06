@@ -1,88 +1,28 @@
-# Jeffrey Onuigbo
+# Hi, I'm Jeffrey
 
-Backend Software Engineer building scalable systems for logistics, operations, and real-world workflows.
+I build the software side of small businesses. Working products from nothing in 4 to 6 weeks, and the automation you keep meaning to build.
 
----
+I work alone, so one person owns the whole thing and nothing falls between roles. Based in Abuja, Nigeria, working with clients anywhere.
 
-## What I Do
+## What I do
 
-I design and build backend systems that power:
+**0-to-1 sprint.** You have a product in your head and no technical team. I design it, build the backend and frontend, set up the infrastructure and ship it, in 4 to 6 weeks. Fixed scope, fixed price.
 
-- Order and delivery lifecycle management
-- Dispatch and fleet coordination systems
-- Real-time tracking and event-driven workflows
-- API integrations across internal and third-party platforms
-- Operational dashboards and internal tools
+**Automation and data plumbing.** The manual process, gone. Scrapers, browser automation, agent tooling, and the pipeline between two systems that refuse to talk to each other. Built once, or kept running monthly.
 
-My focus is on turning complex, real-world operations into reliable, production-ready systems.
+**Fractional engineering.** One day a week of senior engineering for a team that needs more capacity than it can hire.
 
----
+Scope, prices and how it works: **[bkydstudios.com/hire](https://bkydstudios.com/hire)**
 
-## Core Focus Areas
+## Things I've built
 
-- Backend Development (Node.js, Python, Laravel)
-- API Design & Systems Integration
-- Logistics & Operational Systems
-- Event-Driven Architecture & Real-Time Processing
-- Database Design & Optimization (Relational & NoSQL)
-- Infrastructure, Monitoring & System Reliability
-- Workflow Automation & Process Optimization
+- **[Trackam](https://github.com/Jeffreyon/trackam)**: an open source operator platform for logistics companies, built solo in 8 weeks.
+- **[device-sense](https://github.com/Jeffreyon/device-sense)**: reads a machine's real hardware from the chip, not the label, so a faked spec sheet gets caught.
+- **[delivery-flow-engine](https://github.com/Jeffreyon/delivery-flow-engine)**: an event-driven backend for delivery operations, in Node.js.
 
----
+## Get in touch
 
-## How I Think
+If one of the three things above is your problem, send a message and I'll tell you honestly whether I'm the right person.
 
-I don’t just build features — I design systems.
-
-I approach problems by understanding:
-
-- How the business actually operates on the ground
-- Where data flows break, lag, or create inefficiencies
-- What needs to scale as the business grows
-- How to make systems resilient in real-world conditions (network, power, human workflows)
-
----
-
-## Current Direction
-
-- Building systems for logistics operators and operational businesses
-- Exploring event-driven and distributed system architectures
-- Designing offline-first, resilient infrastructure systems
-- Working on deployment and infrastructure tooling (Compute Africa)
-
----
-
-## Selected Work
-
-- Delivery Flow Engine ([View repo](https://github.com/Jeffreyon/delivery-flow-engine))
-  - Built order → dispatch → delivery system
-  - Event-based status tracking
-  - Admin dashboard for operations
-- API integrations for third-party logistics and operational platforms
-- Real-time tracking and status update systems
-- Internal dashboards for operational visibility and control
-
----
-
-## Stack
-
-- Backend: Node.js, Python, Laravel
-- Frontend: React, Next.js, TypeScript
-- Databases: PostgreSQL, MongoDB, Firebase
-- Tools: Docker, Git, REST APIs
-
----
-
-## Contact
-
-- Email: jeffreyon11@gmail.com
-- Portfolio: https://bkydstudios.com
-- GitHub: https://github.com/jeffreyon
-
----
-
-## Philosophy
-
-Software should not just exist — it should move businesses forward.
-
-I build systems that connect ideas, operations, and execution.
+- Work with me: [bkydstudios.com/hire](https://bkydstudios.com/hire)
+- X: [@jeffreyon_](https://x.com/jeffreyon_)
